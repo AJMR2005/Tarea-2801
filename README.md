@@ -1,8 +1,8 @@
 # Pruebas funcionamiento de programas
 ## Punto 1 y 2
 ### Lalista tiene elementos repetidos y  determina si la palabra es palintrome
+![My Image1](https://github.com/user-attachments/assets/5f8b83f0-0e6d-4760-86f6-780f9f082003)
 
-<img width="554" alt="Image" src="https://github.com/user-attachments/assets/5f8b83f0-0e6d-4760-86f6-780f9f082003" />
 
 ## Punto 3 y 4
 ### los elementos tiene mas de dos vocales y revisa si una lista es palintrome
