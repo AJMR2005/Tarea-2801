@@ -12,4 +12,4 @@
 ## Punto 5
 ### Me da el numero maximo en una lista
 
-<img width="709" alt="Image" src="https://github.com/user-attachments/assets/6f85fbab-edb1-45c8-bf22-79306881ff84" />
+<img width="709" alt="Image" src="https://github.com/user-attachments/assets/58d13184-b5d9-492a-8f9e-6db3a847850f" />
