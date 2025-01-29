@@ -1,6 +1,6 @@
 # Pruebas funcionamiento de programas
 ## Punto 1 y 2
-### Lalista tiene elementos repetidos y  determina si la palabra es palintrome
+Lalista tiene elementos repetidos y  determina si la palabra es palintrome
 ![My Image1](https://github.com/user-attachments/assets/5f8b83f0-0e6d-4760-86f6-780f9f082003)
 
 
