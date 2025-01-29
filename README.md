@@ -1,13 +1,13 @@
 # Pruebas funcionamiento de programas
 ## Punto 1 y 2
 Lalista tiene elementos repetidos y  determina si la palabra es palintrome
-![My Image1](https://github.com/user-attachments/assets/5f8b83f0-0e6d-4760-86f6-780f9f082003)
+<img width="554" alt="Image" src="https://github.com/user-attachments/assets/9ef597c4-02e9-4468-800e-ad991bd05e51" />
 
 
 ## Punto 3 y 4
 ### los elementos tiene mas de dos vocales y revisa si una lista es palintrome
 
-<img width="538" alt="Image" src="https://github.com/user-attachments/assets/fdf9dffa-d60a-48cc-97a3-ab46da15057f" />
+<img width="538" alt="Image" src="https://github.com/user-attachments/assets/d3a1d713-9cd2-45c7-b0a0-87a217735193" />
 
 ## Punto 5
 ### Me da el numero maximo en una lista
