@@ -1,5 +1,6 @@
 #Arnold Merchan Rojas 
 #punto 1 Programa que verifica los elementos dentro de una lista y me fice si hay elementos repetidos
+print('el programa verifica los elementos dentro de una lista y me fice si hay elementos repetidos')
 #pide el numero de elementos dentro de la lista
 Nelementos=int(input('ingrese el numero de elementos'))
 elemtrep=0
@@ -17,16 +18,17 @@ for i in lista:
     contador=lista.count(i)
     if contador>1:
         print(f'el elemento {i} se encuentra {contador} veces')
-    if contador==1:
+    if contador<1:
         print('no hay elementos repetidos')
 
-  
+print('_______________________________________________________________\n\n\n\n\n')  
     
 
        
 
 
 #punto 2el programa determina si las palabras en la lista son palndromes
+print('el programa programa determina si las palabras en la lista son palndromes')
 #crear una lista vacia
 list_elemt= []
 #se ingresa numero de elementos de la lista
@@ -51,11 +53,12 @@ if h==0:
     print('no hay palabras palindromes')
 
 
-
+print('_______________________________________________________________\n\n\n\n\n')  
 
 
 
 #punto 3 el programa determina si dentro de una lista de palagras hay una palabra con 2 o mas vocales
+print('el programa determina si dentro de una lista de palagras hay una palabra con 2 o mas vocales')
 g=0
 palab=[]
 Npalan=int(input('ingrese el numero de palabras que desea incluir en la lista'))
@@ -85,9 +88,11 @@ if g==0:
 
 
 
+print('_______________________________________________________________\n\n\n\n\n')  
 
     
 #punto 4 el programa determina si una lista es palindrome
+print('el programa determina si una lista es palindrome')
 list_palin=[]
 s=0
 q=0
@@ -118,3 +123,50 @@ for i in list_palin:
                 s=s+1
 if s==0:
     print(' la lista no es pa lindrome')
+
+
+print('_______________________________________________________________\n\n\n\n\n')  
+
+print('el programa encuentra el numero maximo dentro de una lista')
+#punto 5 el programa encuentra el numero maximo dentro de una lista
+
+def crear_lista():
+    lista_auto=[]
+    numelemen=int(input('ingrese el numero de elementos de su lista'))
+    for i in range(numelemen):
+        objeto=input(f'ingrese e elemento #{i+1}   :')
+        lista_auto.append(objeto)
+    return lista_auto
+ab={'j'}    
+lista5=crear_lista()
+long=len(lista5)
+#variable global a se declar comom entero he igual a 0
+a=int(0)
+#se corre toda la lista
+for i in lista5:
+    #cada elemento de la lista lo llamamos con la variable numero y lo convertimos a entero
+    numero=int(i)
+    #la variable a siempre va a guardar el numero mayo desde que sean positivos
+    if a<numero:       
+        a=numero
+        #print(f'el numero mayor es ={a}')
+        print(a)
+        ultimo=int(lista5[long-1])
+       
+        if ultimo==numero:
+            print(f'el numero mayor es ={a}')
+    #en dado caso que encuentre un numero a mayor que el elemento me verifica si dicho elemenrto s el ultimo y si es el mayor
+    elif a>numero:
+        ultimo=int(lista5[long-1])
+        a=a
+        if ultimo==numero:
+            print(f'el numero mayor es ={a}')
+
+
+
+        
+
+
+        
+
+      
