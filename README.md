@@ -12,4 +12,4 @@ Lalista tiene elementos repetidos y  determina si la palabra es palintrome
 ## Punto 5
 ### Me da el numero maximo en una lista
 
-<img width="709" alt="Image" src="https://github.com/user-attachments/assets/58d13184-b5d9-492a-8f9e-6db3a847850f" />
+<img width="709" alt="Image" src="https://github.com/user-attachments/assets/21de37e6-caf6-4923-8d9b-425e9e063c45" />
